@@ -1,6 +1,6 @@
-This example is based upon https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/
-
-Keep in mind we use localStorage (browser-based storage)
+This example is based upon https://www.freecodecamp.org/news/react-crud-app-how-to-create-a-book-management-app-from-scratch/  
+  
+Keep in mind we use localStorage (browser-based storage)  
 
 # Getting Started with Create React App
 
